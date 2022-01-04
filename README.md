@@ -1,2 +1,2 @@
-# Project
-Demo https://khirdinah.github.io/Project/templete%20training%20one/
+# Templete Training One 
+DEMO https://khirdinah.github.io/Project/templete%20training%20one/
